@@ -5,17 +5,17 @@
 <img src="https://github.com/user-attachments/assets/842b9a11-5dc1-4d14-9d40-37d11e5d83e6" width="30px">&nbsp;***Sobre mi***
 
 Soy estudiante de ingeniería de sistemas con 19 años de edad, actualmente a mitad de carrera y exparticipante de una hackathon. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end. Disfruto aprender y construir proyectos nuevos, productivos, innovadores y creativos. 
-- 🌱 Actualmente aprendiendo: Django 🐍
+- 🌱 Actualmente aprendiendo: Spring boot ☕
 - 🏢 Con ansias de encontrar mi primer trabajo.
 - 📫 Contáctame en: <a href="danellslied10@gmail.com">danellslied10@gmail.com</a>
 ## Mis habilidades
 <h4> Lenguajes </h4>
 <span> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,py">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java">
 </span>
 <h4> Herramientas y tecnologías </h4>
 <span>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,mysql,django">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,mysql,spring">
 </span>
 
 ## Mis redes sociales
