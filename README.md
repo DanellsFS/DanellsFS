@@ -17,8 +17,3 @@ Soy estudiante de ingeniería de sistemas con 19 años de edad, actualmente a mi
 <span>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,mysql,spring">
 </span>
-
-## Mis redes sociales
-<a href="https://www.instagram.com/damn_piu/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
-</a>
